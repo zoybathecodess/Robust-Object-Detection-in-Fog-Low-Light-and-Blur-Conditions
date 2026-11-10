@@ -1,0 +1,42 @@
+{
+  "clean": {
+    "static": {
+      "mAP": 15.12,
+      "mAP50": 30.22
+    },
+    "tta": {
+      "mAP": 15.14,
+      "mAP50": 30.22
+    }
+  },
+  "synth_fog": {
+    "static": {
+      "mAP": 7.68,
+      "mAP50": 14.53
+    },
+    "tta": {
+      "mAP": 7.68,
+      "mAP50": 14.54
+    }
+  },
+  "synth_blur": {
+    "static": {
+      "mAP": 5.25,
+      "mAP50": 9.91
+    },
+    "tta": {
+      "mAP": 5.26,
+      "mAP50": 9.91
+    }
+  },
+  "synth_lowlight": {
+    "static": {
+      "mAP": 2.76,
+      "mAP50": 6.2
+    },
+    "tta": {
+      "mAP": 2.76,
+      "mAP50": 6.19
+    }
+  }
+}
