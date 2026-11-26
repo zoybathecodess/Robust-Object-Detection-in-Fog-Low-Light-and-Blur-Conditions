@@ -1,0 +1,26 @@
+{
+  "clean": {
+    "static": {
+      "mAP": 38.83,
+      "mAP50": 62.78
+    }
+  },
+  "synth_fog": {
+    "static": {
+      "mAP": 33.56,
+      "mAP50": 55.84
+    }
+  },
+  "synth_blur": {
+    "static": {
+      "mAP": 26.12,
+      "mAP50": 45.1
+    }
+  },
+  "synth_lowlight": {
+    "static": {
+      "mAP": 24.23,
+      "mAP50": 42.27
+    }
+  }
+}
